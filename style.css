@@ -1,0 +1,17 @@
+h4 {
+    color: blue;
+    font-size: 18px;
+} */
+
+
+/* every h1,h2 gets the same font */
+h1,h2 {font-family: Arial, sans-serif;}
+ 
+/*the one element with id="main-title" */
+main-title { color: navy;}
+
+/* any element with class="intro" */
+.intro {font-weight: bold;}
+
+/*only links that live inside a <nav> */
+nav a {color: teal; text-decoration: none;}
